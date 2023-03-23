@@ -1,1 +1,1 @@
-# Proj
+This is a final project I did for one of my courses a while back, where we were tasked wth using logistic regression and gradient descent in order to discern if certain bank notes were fraudulent or not. The rest of the pertinent information is included in the jupyter notebook.
